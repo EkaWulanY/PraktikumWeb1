@@ -11,5 +11,5 @@ e. Elemen <body>mendefinisikan badan dokumen, dan merupakan wadah untuk semua ko
 f. Elemen <h1>mendefinisikan judul besar
 g. Elemen <p>mendefinisikan paragraf
 
-  Pada HTML sendiri terdapat elemen, elemen html merupakan komponen yang menyusun dokumen HTML diawali dengan tag pembuka dan diakhiri dengan tag penutup
+Pada HTML sendiri terdapat elemen, elemen html merupakan komponen yang menyusun dokumen HTML diawali dengan tag pembuka dan diakhiri dengan tag penutup
   
