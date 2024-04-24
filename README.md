@@ -16,23 +16,33 @@ Selain hyperlink atribut pada html seperti img untuk menampilkan gambar, alt unt
 contoh hasil output atribut dalam pendefinisian hyperlink
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/f3b1b636-b5a8-4ba3-89f5-301d728dadb3)
 
-# Heading
+## Heading
 
 Pada HTML pemberian judul sendiri terdiri atas beberapa heaading dari yaitu heading 1 hingga heading 6
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/6fcb2695-370e-4b93-964f-abeba3f92111)
 Judul Itu Penting
 Mesin pencari menggunakan judul untuk mengindeks struktur dan konten halaman web Anda.
 Pengguna sering kali menelusuri halaman berdasarkan judulnya. Penting untuk menggunakan judul untuk menunjukkan struktur dokumen.
-# Warna dalam HTML
+
+## Warna dalam HTML
 
 HTML sendiri mendukung 140 warna standar. Warna HTML ditentukan dengan nama warna yang telah ditentukan sebelumnya, atau dengan nilai RGB, HEX, HSL, RGBA, atau HSLA.
-![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/51470367-e756-4bcc-861b-b1bfe86e1fbb)
 
+## Tabel HTML
+Tabel HTML memungkinkan pengembang web untuk mengatur data ke dalam baris dan kolom.
+
+## HTML Div Element
+Elemen <div>
+Elemen ini <div>secara default adalah elemen blok, artinya elemen ini mengambil semua lebar yang tersedia, dan dilengkapi dengan jeda baris sebelum dan sesudahnya.
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/37f46b76-a934-48bc-977d-d798c75f6f49)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/9fbe571e-5fbe-414d-a6a0-d649ecd3591a)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/51470367-e756-4bcc-861b-b1bfe86e1fbb)
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/34d3031b-755d-4689-bb17-3913ab87f0f7)
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/6c469d6e-b405-42df-ad4b-320a751bc019)
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/d88ba81e-a7ec-4748-b5dd-c88d7a10c8b3)
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/952c5973-b894-4d73-9cf6-69a973e68055)
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/c059d8ba-a48a-4e58-9bc3-dbc44526b699)
+
 
 # CSS
 
