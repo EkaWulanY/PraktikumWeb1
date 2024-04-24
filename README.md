@@ -20,8 +20,8 @@ contoh hasil output atribut dalam pendefinisian hyperlink
 
 Pada HTML pemberian judul sendiri terdiri atas beberapa heaading dari yaitu heading 1 hingga heading 6
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/6fcb2695-370e-4b93-964f-abeba3f92111)
-Judul Itu Penting
-Mesin pencari menggunakan judul untuk mengindeks struktur dan konten halaman web Anda.
+
+Judul Itu Penting. Mesin pencari menggunakan judul untuk mengindeks struktur dan konten halaman web Anda.
 Pengguna sering kali menelusuri halaman berdasarkan judulnya. Penting untuk menggunakan judul untuk menunjukkan struktur dokumen.
 
 ## Warna dalam HTML
