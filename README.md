@@ -34,5 +34,5 @@ HTML sendiri mendukung 140 warna standar. Warna HTML ditentukan dengan nama warn
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/952c5973-b894-4d73-9cf6-69a973e68055)
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/c059d8ba-a48a-4e58-9bc3-dbc44526b699)
 
-#CSS
+# CSS
 
