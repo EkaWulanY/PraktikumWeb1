@@ -43,6 +43,108 @@ Elemen ini <div>secara default adalah elemen blok, artinya elemen ini mengambil 
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/952c5973-b894-4d73-9cf6-69a973e68055)
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/c059d8ba-a48a-4e58-9bc3-dbc44526b699)
 
-
 # CSS
 
+# JavaScript
+
+JavaScript merupakan suatu bahasa pemrograman yang paling populer dan merupakan bahasa pemrogramman web. Mengapa harus mempelajari JavaScript? Karena JavaScript merupakan salah satu bahasa pemrograman yang wajib dipelajari oleh setiap pengembang web.
+
+1. HTML untuk mendefinisikan konten halaman web
+2. CSS untuk menentukan tata letak halaman web
+3. JavaScript untuk memprogram perilaku halaman web
+
+JavaScript sendiri dapat mengubah konten dalam HTML
+
+Salah satu dari banyak metode JavaScript HTML adalah getElementById().
+Contoh di bawah ini "menemukan" elemen HTML (dengan id="demo"), dan mengubah konten elemen (innerHTML) menjadi "Halo JavaScript":
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/48243481-ca0d-4574-a81a-ac78aece33a3)
+
+JavaScript Dapat Mengubah Nilai Atribut HTML
+Dalam contoh ini JavaScript mengubah nilai srcatribut (sumber) dari sebuah <img>tag
+
+JavaScript Dapat Mengubah Gaya HTML (CSS)
+Mengubah gaya elemen HTML, merupakan varian dari mengubah atribut HTML:
+
+Dalam JavaScript sintaks JavaScript adalah seperangkat aturan, bagaimana program JavaScript dibuat, Nilai JavaScript
+Sintaks JavaScript mendefinisikan dua jenis nilai:
+
+Nilai tetap
+Nilai variabel
+Nilai tetap disebut Literals .
+
+Nilai variabel disebut Variabel .
+
+JavaScript Literals
+
+1. Bilangan ditulis dengan atau tanpa desimal
+2. String adalah teks yang ditulis dalam tanda kutip ganda atau tunggal
+
+Variabel JavaScript
+
+Dalam bahasa pemrograman, variabel digunakan untuk menyimpan nilai data. JavaScript menggunakan kata kunci var, letdan constuntuk mendeklarasikan variabel.Tanda sama dengan digunakan untuk memberikan nilai pada variabel.
+
+Operator JavaScript
+JavaScript menggunakan operator aritmatika ( + - * /) untuk menghitung nilai. JavaScript menggunakan operator penugasan ( =) untuk menetapkan nilai ke variabel.
+
+Ekspresi JavaScript
+
+Ekspresi adalah kombinasi nilai, variabel, dan operator, yang menghitung suatu nilai.Perhitungannya disebut evaluasi.
+Misalnya, 5 * 10 bernilai 50
+
+Kata Kunci JavaScript
+Kata kunci JavaScript digunakan untuk mengidentifikasi tindakan yang akan dilakukan. Kata kunci pada javaScript berupa var dan let.
+var atau let akan menghasilkan hasil yang sama.
+
+Komentar JavaScript
+
+Tidak semua pernyataan JavaScript "dieksekusi".
+Kode setelah garis miring ganda //atau di antara /*dan */diperlakukan sebagai komentar .
+Komentar diabaikan, dan tidak akan dieksekusi.
+
+Pengidentifikasi / Nama JavaScript
+
+Pengidentifikasi adalah nama JavaScript.
+Pengidentifikasi digunakan untuk memberi nama variabel dan kata kunci, serta fungsi.
+Aturan untuk nama resmi sama di sebagian besar bahasa pemrograman.
+Nama JavaScript harus dimulai dengan:
+
+-Sebuah huruf (AZ atau az)
+
+-Tanda dolar ($)
+
+-Atau garis bawah (_)
+
+Karakter berikutnya dapat berupa huruf, angka, garis bawah, atau tanda dolar.
+
+JavaScript is Case Sensitive
+Semua pengidentifikasi JavaScript peka huruf besar-kecil . Variabel lastNamedan lastname, adalah dua variabel berbeda
+
+Variabel dalam JavaScript
+
+Variabel adalah Wadah untuk Menyimpan Data. Variabel JavaScript dapat dideklarasikan dengan 4 cara:
+
+Secara otomatis,Menggunakanvar,Menggunakanlet,Menggunakanconst.
+
+Kapan Menggunakan var, let, atau const?
+
+1. Selalu mendeklarasikan variabel
+
+2. Selalu gunakan constjika nilainya tidak boleh diubah
+
+3. Selalu gunakan constjika tipenya tidak boleh diubah (Array dan Objek)
+
+4. Gunakan hanya letjika Anda tidak dapat menggunakannyaconst
+
+5. Hanya gunakan varjika Anda HARUS mendukung browser lama.
+
+Pengidentifikasi JavaScript
+Semua variabel JavaScript harus diidentifikasi dengan nama unik .
+Nama-nama unik ini disebut pengidentifikasi .
+Pengidentifikasi dapat berupa nama pendek (seperti x dan y) atau nama yang lebih deskriptif (usia, jumlah, totalVolume).
+Aturan umum untuk membuat nama variabel (pengidentifikasi unik) adalah:
+
+Nama dapat berisi huruf, angka, garis bawah, dan tanda dolar.
+Nama harus diawali dengan huruf.
+Nama juga bisa diawali dengan $ dan _ (tetapi kami tidak akan menggunakannya dalam tutorial ini).
+Nama peka huruf besar-kecil (y dan Y adalah variabel berbeda).
+Kata-kata khusus (seperti kata kunci JavaScript) tidak dapat digunakan sebagai nama.
