@@ -167,20 +167,5 @@ Kata-kata khusus (seperti kata kunci JavaScript) tidak dapat digunakan sebagai n
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/c84b9656-1093-42aa-83da-48cfa48ee48d)
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/05515942-ed67-45c1-ba9e-54ba655b7a27)
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/de76c33e-11a3-4c68-9a09-5857feace536)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/3dddcc1e-3b00-44d9-817d-1a470dde7e9e)
 
