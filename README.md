@@ -148,3 +148,39 @@ Nama harus diawali dengan huruf.
 Nama juga bisa diawali dengan $ dan _ (tetapi kami tidak akan menggunakannya dalam tutorial ini).
 Nama peka huruf besar-kecil (y dan Y adalah variabel berbeda).
 Kata-kata khusus (seperti kata kunci JavaScript) tidak dapat digunakan sebagai nama.
+
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/89d78af3-0ca8-434e-82e0-273ceb39bead)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/0c5faac3-bf42-42ac-8ab2-e32e1620be71)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/71e0da2f-a8e5-48f1-92dc-305ffb3c88b9)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/e8b3bb9c-cac1-400b-80ed-27798256ea95)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/f272ae76-e227-4ad6-bebf-169917eaef89)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/d2bc7c0b-53d5-413a-860f-3bc7456d3286)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/c79e9428-b376-49da-bc15-92ea79d7a5c7)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/c9bb451c-1bde-44f8-9b03-a86153824013)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/625de508-66e5-4910-8b2a-fb16ed2ee772)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/7e351ea1-1fba-46bc-ac3a-4836e1a3e427)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/4c8dda91-6704-4ee3-831f-62bebed5e133)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/7096f61e-e300-414f-86eb-404d4dbb687a)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/c606775d-a1ad-48c7-9998-e84ec3c51a9c)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/7de37894-8c9f-4895-850f-33660b8c7ca5)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/2cb41aff-e17a-4cdd-b989-e196093fa03d)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/c84b9656-1093-42aa-83da-48cfa48ee48d)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/05515942-ed67-45c1-ba9e-54ba655b7a27)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/de76c33e-11a3-4c68-9a09-5857feace536)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
