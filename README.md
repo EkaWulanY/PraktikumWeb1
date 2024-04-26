@@ -1,4 +1,4 @@
-![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/a1877c82-c098-40ec-be0e-74c1df240b24)# PraktikumWeb1
+# PraktikumWeb1
 
 # HTML
 
@@ -118,7 +118,8 @@ Contoh elemen sebaris:
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/1fff81f2-4fe1-4004-b6ea-6f0fd25ac33f)
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/d7867e5c-10e0-4d94-89bf-35e6aad2b398)
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/21328e71-3a3a-4f60-8d34-d8744440c308)
-
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/f0d3a2ba-5a65-4a4f-b3cf-1539c5ffc4ca)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/a1877c82-c098-40ec-be0e-74c1df240b24)
 
 # JavaScript
 
