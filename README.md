@@ -1,4 +1,4 @@
-# PraktikumWeb1
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/a1877c82-c098-40ec-be0e-74c1df240b24)# PraktikumWeb1
 
 # HTML
 
@@ -44,6 +44,81 @@ Elemen ini <div>secara default adalah elemen blok, artinya elemen ini mengambil 
 ![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/c059d8ba-a48a-4e58-9bc3-dbc44526b699)
 
 # CSS
+
+CSS adalah bahasa yang kami gunakan untuk menata gaya dokumen HTML.CSS menjelaskan bagaimana elemen HTML harus ditampilkan.Tutorial ini akan mengajarkan Anda CSS dari dasar hingga lanjutan.
+
+## Apa itu CSS?
+
+- CSS adalah singkatan dari Cascading Style Sheet
+- CSS menjelaskan bagaimana elemen HTML ditampilkan di layar, kertas, atau di media lain
+- CSS menghemat banyak pekerjaan. Itu dapat mengontrol tata letak beberapa halaman web sekaligus
+- Stylesheet eksternal disimpan dalam file CSS
+
+CSS digunakan untuk menentukan gaya halaman web Anda, termasuk desain, tata letak, dan variasi tampilan untuk berbagai perangkat dan ukuran layar.
+CSS Memecahkan Masalah Besar
+HTML TIDAK PERNAH dimaksudkan untuk memuat tag untuk memformat halaman web!
+
+HTML dibuat untuk mendeskripsikan konten halaman web, seperti:
+
+<h1>Ini adalah judul</h1>
+
+<p>Ini adalah sebuah paragraf.</p>
+
+Ketika tag seperti <font>, dan atribut warna ditambahkan ke spesifikasi HTML 3.2, hal ini menimbulkan mimpi buruk bagi pengembang web. Pengembangan situs web besar, di mana font dan informasi warna ditambahkan ke setiap halaman, menjadi proses yang panjang dan mahal.Untuk mengatasi masalah ini, World Wide Web Consortium (W3C) menciptakan CSS.CSS menghapus pemformatan gaya dari halaman HTML!
+
+CSS Menghemat Banyak Pekerjaan!
+Definisi gaya biasanya disimpan dalam file .css eksternal.Dengan file stylesheet eksternal, Anda dapat mengubah tampilan seluruh situs web hanya dengan mengubah satu file!
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/ba843e37-7768-416a-a10e-cc3127dba99b)
+
+Daftar HTML dan Properti Daftar CSS
+Dalam HTML, ada dua tipe utama daftar:
+
+daftar tidak berurutan (<ul>) - item daftar ditandai dengan poin
+daftar terurut (<ol>) - item daftar ditandai dengan angka atau huruf
+Properti daftar CSS memungkinkan Anda untuk:
+
+Tetapkan penanda item daftar yang berbeda untuk daftar yang dipesan
+Tetapkan penanda item daftar yang berbeda untuk daftar tidak berurutan
+Tetapkan gambar sebagai penanda item daftar
+Tambahkan warna latar belakang ke daftar dan item daftar
+Contoh Dijelaskan
+padalah pemilih dalam CSS (menunjuk ke elemen HTML yang ingin Anda gaya: <p>).
+coloradalah properti, dan redmerupakan nilai properti
+text-alignadalah properti, dan centermerupakan nilai properti
+
+Penanda Item Daftar Berbeda
+Properti list-style-typemenentukan tipe penanda item daftar.Properti list-style-imagemenentukan gambar sebagai penanda item daftar.
+
+The display Property
+
+Properti ini displaydigunakan untuk menentukan bagaimana suatu elemen ditampilkan pada halaman web.
+Setiap elemen HTML memiliki nilai tampilan default, bergantung pada jenis elemennya. Nilai tampilan default untuk sebagian besar elemen adalah blockatau inline.
+Properti ini displaydigunakan untuk mengubah perilaku tampilan default elemen HTML.Elemen Tingkat Blok
+Elemen tingkat blok SELALU dimulai pada baris baru dan menempati seluruh lebar yang tersedia (merentang ke kiri dan kanan sejauh mungkin).
+
+Contoh elemen sebaris:
+
+< rentang >
+< a >
+< img >
+
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/367cced4-6567-4c6c-8268-22d7278631b9)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/3066e08f-5d08-4b80-b073-4236d37bdf9b)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/8919749d-1fb0-4a41-847c-f22cc98301a8)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/ed36c41a-50b3-4b24-ab87-79c7671dd952)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/c10fb9d0-455e-420a-96d2-5265f84a41f5)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/77346347-2e76-415f-b419-fdf0d850b5eb)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/7a13025e-5d2b-45c6-9580-29039844b463)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/231864a8-1b10-4c48-bcd9-d5329d5b5a92)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/74bd988b-3cb4-42db-8493-87166a5a52b3)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/37854e53-4ab9-4ce3-959a-65b256e7c7a1)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/2d8cfe70-8724-4070-acfb-39164d38c7ee)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/14e99baa-10a4-405c-abf8-9a5e5d9bfdf0)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/5ffa97b5-36ae-46a7-b838-d6c031d2c6d6)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/1fff81f2-4fe1-4004-b6ea-6f0fd25ac33f)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/d7867e5c-10e0-4d94-89bf-35e6aad2b398)
+![image](https://github.com/EkaWulanY/PraktikumWeb1/assets/167957399/21328e71-3a3a-4f60-8d34-d8744440c308)
+
 
 # JavaScript
 
